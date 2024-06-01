@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.techinasia.com/wp-content/uploads/2024/04/1713865821_Newsletter-GIF-Lessons-learned-in-Pakistan-1200x640-1.gif)]
+![MasterHead](https://cdn.techinasia.com/wp-content/uploads/2024/04/1713865821_Newsletter-GIF-Lessons-learned-in-Pakistan-1200x640-1.gif)
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
 <h3 align="center">A passionate backend developer from Pakistan 🇵🇰</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
