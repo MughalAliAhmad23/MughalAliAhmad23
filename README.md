@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mughalaliahmad23&label=Profile%20views&color=0e75b6&style=flat" alt="mughalaliahmad23" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 **Golang Developer**
 
 - 📫 How to reach me **mughalaliahmad23@gmail.com**
 
